@@ -1,0 +1,23 @@
+2 elements:
+['Acute viral pharyngitis (disorder)', 'Viral sinusitis (disorder)']  with count  343651
+['Acute bronchitis (disorder)', 'Viral sinusitis (disorder)']  with count  302516
+['Prediabetes', 'Anemia (disorder)']  with count  289176
+['Body mass index 30+ - obesity (finding)', 'Viral sinusitis (disorder)']  with count  243812
+['Anemia (disorder)', 'Viral sinusitis (disorder)']  with count  236847
+['Prediabetes', 'Viral sinusitis (disorder)']  with count  236320
+['Acute bronchitis (disorder)', 'Acute viral pharyngitis (disorder)']  with count  211065
+['Hypertension', 'Viral sinusitis (disorder)']  with count  203450
+['Body mass index 30+ - obesity (finding)', 'Acute viral pharyngitis (disorder)']  with count  167438
+['Chronic sinusitis (disorder)', 'Viral sinusitis (disorder)']  with count  165530
+
+3 elements:
+['Prediabetes', 'Anemia (disorder)', 'Viral sinusitis (disorder)']  with count  192819
+['Acute bronchitis (disorder)', 'Acute viral pharyngitis (disorder)', 'Viral sinusitis (disorder)']  with count  139174
+['Prediabetes', 'Acute viral pharyngitis (disorder)', 'Anemia (disorder)']  with count  132583
+['Acute bronchitis (disorder)', 'Prediabetes', 'Anemia (disorder)']  with count  115510
+['Body mass index 30+ - obesity (finding)', 'Acute viral pharyngitis (disorder)', 'Viral sinusitis (disorder)']  with count  111860
+['Acute viral pharyngitis (disorder)', 'Anemia (disorder)', 'Viral sinusitis (disorder)']  with count  108560
+['Prediabetes', 'Acute viral pharyngitis (disorder)', 'Viral sinusitis (disorder)']  with count  108083
+['Prediabetes', 'Hypertension', 'Anemia (disorder)']  with count  99818
+['Acute bronchitis (disorder)', 'Body mass index 30+ - obesity (finding)', 'Viral sinusitis (disorder)']  with count  97384
+['Acute bronchitis (disorder)', 'Anemia (disorder)', 'Viral sinusitis (disorder)']  with count  94793
